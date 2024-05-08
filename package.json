@@ -1,8 +1,8 @@
 {
-  "name": "typescript-template",
+  "name": "typescript-webgl",
   "version": "1.0.0",
-  "description": "A Typescript and Jest template",
-  "main": "index.js",
+  "description": "A Typescript webgl example",
+  "main": "draw.js",
   "scripts": {
     "build": "npx tsc",
     "start": "npx ts-node index.ts",
